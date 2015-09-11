@@ -22,50 +22,19 @@ var romanNumerals = function(number) {
       if (unit === 9) {
         rom_unit.push("IX")
       }
-
-
-
       }
-
     }
-
   }
-
   if ((num_array.length === 2) {
     var tens = num_array[1]
   }
-
   if (num_array.length === 3) {
     var hundreds = num_array[2]
   }
-
-
-
-
-
-
-
   // convert number to string
-
   // split()
-
-  //
-
   //  separate digits in 100s, 10s, units etc.....
-
-  if (number
-
-
-
-
-
-
-
-
-
-
-}
-
+ }
 
 // output = "";
 // roman = ["I", "IV", "V", "IX", "X", "XL", "L", "XC", "C", "CD", "D", "CM", "M"]
